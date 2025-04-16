@@ -46,3 +46,11 @@ body {
   header a:hover {
     color: #94d2bd; 
   }
+  @media (max-width: 768px) {
+    body {
+      padding: 10px;
+      font-size: 14px;
+    }
+  
+  }
+
