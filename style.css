@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #fefefe;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -54,3 +55,53 @@ body {
   
   }
 
+=======
+body {
+    background-color: #fefefe;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  header {
+    background-color: #005f73;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    color: #0a9396;
+  }
+  
+  section {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  a {
+    color: #0077b6;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    background-color: #005f73;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  header a {
+    color: #ffffff; 
+    font-weight: bold;
+  }
+  
+  header a:hover {
+    color: #94d2bd; 
+  }
+>>>>>>> 86c350c4f6f0b78588ef5f8cd0714518e263f37b
